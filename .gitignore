@@ -1,0 +1,7 @@
+venv/
+aptos2019-blindness-detection/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+models/
